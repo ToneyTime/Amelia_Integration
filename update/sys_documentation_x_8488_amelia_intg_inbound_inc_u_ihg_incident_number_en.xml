@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_ihg_incident_number" label="IHG Incident Number" language="en" table="x_8488_amelia_intg_inbound_inc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_ihg_incident_number</element>
+            <help/>
+            <hint/>
+            <label>IHG Incident Number</label>
+            <language>en</language>
+            <name>x_8488_amelia_intg_inbound_inc</name>
+            <plural>IHG Incident Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2016-11-17 17:57:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>bfe3e4d7db0fa600ead7d604ce9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IHG Incident Number</sys_name>
+            <sys_package display_value="Amelia Integration" source="x_8488_amelia_intg">aca8e760db122200218dd190cf961984</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Amelia Integration">aca8e760db122200218dd190cf961984</sys_scope>
+            <sys_update_name>sys_documentation_x_8488_amelia_intg_inbound_inc_u_ihg_incident_number_en</sys_update_name>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-17 17:57:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
