@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Call Functionality Enabled</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_8488_amelia_intg.integration.call.active</name>
+        <read_roles/>
+        <suffix>integration.call.active</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>vecchit</sys_created_by>
+        <sys_created_on>2016-12-10 20:38:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>be752fe2db632e005bf9b6bffe9619bb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_8488_amelia_intg.integration.call.active</sys_name>
+        <sys_package display_value="Amelia Integration" source="x_8488_amelia_intg">aca8e760db122200218dd190cf961984</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Amelia Integration">aca8e760db122200218dd190cf961984</sys_scope>
+        <sys_update_name>sys_properties_be752fe2db632e005bf9b6bffe9619bb</sys_update_name>
+        <sys_updated_by>vecchit</sys_updated_by>
+        <sys_updated_on>2016-12-16 22:41:58</sys_updated_on>
+        <type>boolean</type>
+        <value>false</value>
+        <write_roles>admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=be752fe2db632e005bf9b6bffe9619bb"/>
+</record_update>

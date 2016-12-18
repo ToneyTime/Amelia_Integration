@@ -209,7 +209,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>AMER\vecchit</sys_created_by>
             <sys_created_on>2016-11-17 18:25:24</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e16ae81fdb0fa600ead7d604ce961972</sys_id>

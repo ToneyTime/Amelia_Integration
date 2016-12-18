@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_routing_code" label="Routing Code" language="en" table="x_8488_amelia_intg_inbound_inc">
+    <sys_documentation element="u_business_service" label="Business Service" language="en" table="x_8488_amelia_intg_inbound_inc">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_routing_code</element>
+            <element>u_business_service</element>
             <help/>
             <hint/>
-            <label>Routing Code</label>
+            <label>Business Service</label>
             <language>en</language>
             <name>x_8488_amelia_intg_inbound_inc</name>
-            <plural>Routing Codes</plural>
+            <plural>Business Services</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>AMER\vecchit</sys_created_by>
-            <sys_created_on>2016-11-17 17:41:27</sys_created_on>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-12-05 15:45:07</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>f5502057db0fa600ead7d604ce961949</sys_id>
+            <sys_id>c952fc41dbe3a600ddd1b34ffe9619d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Routing Code</sys_name>
+            <sys_name>Business Service</sys_name>
             <sys_package display_value="Amelia Integration" source="x_8488_amelia_intg">aca8e760db122200218dd190cf961984</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Amelia Integration">aca8e760db122200218dd190cf961984</sys_scope>
-            <sys_update_name>sys_documentation_x_8488_amelia_intg_inbound_inc_u_routing_code_en</sys_update_name>
-            <sys_updated_by>AMER\vecchit</sys_updated_by>
-            <sys_updated_on>2016-11-17 17:41:27</sys_updated_on>
+            <sys_update_name>sys_documentation_x_8488_amelia_intg_inbound_inc_u_business_service_en</sys_update_name>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-12-05 15:45:07</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

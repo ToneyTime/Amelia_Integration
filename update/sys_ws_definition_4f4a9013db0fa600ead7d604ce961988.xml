@@ -18,7 +18,7 @@
         <sys_class_name>sys_ws_definition</sys_class_name>
         <sys_created_by>AMER\vecchit</sys_created_by>
         <sys_created_on>2016-11-17 17:15:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4f4a9013db0fa600ead7d604ce961988</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Amelia Incident</sys_name>
